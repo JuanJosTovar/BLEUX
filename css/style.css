@@ -580,5 +580,10 @@ li:hover{
 
     .parteFinal{
         font-size: 10px;
+        margin-left: 10px;
+    }
+
+    .final{
+        flex-direction: column;
     }
 }
